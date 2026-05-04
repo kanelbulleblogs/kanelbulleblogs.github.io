@@ -1,0 +1,149 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+@use 'themes/light' as custom-light;
+
+/* append your custom style below */
+
+html {
+  @media (prefers-color-scheme: light) {
+    &:not([data-mode]),
+    &[data-mode='light'] {
+      @include custom-light.styles;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    &[data-mode='light'] {
+      @include custom-light.styles;
+    }
+  }
+}
+
+#post-list .card-wrapper-featured {
+  position: relative;
+  overflow: hidden;
+}
+
+#post-list .post-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 5.55rem;
+  min-height: 2.25rem;
+  padding: 0.34rem 0.66rem 0.44rem 0.98rem;
+  white-space: normal;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 3;
+  margin: 0;
+  border: 0;
+  border-radius: 0 1rem 0 1.15rem;
+  background: linear-gradient(135deg, #9caf88 0%, #7f9571 48%, #6b8161 100%);
+  color: #f6fbf2;
+  font-size: 0.5rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  line-height: 1.08;
+  text-align: center;
+  text-transform: uppercase;
+  box-shadow: 0 0.18rem 0.45rem rgb(69 89 64 / 14%);
+  clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%, 0 28%);
+  pointer-events: none;
+}
+
+#post-list .post-badge::after {
+  content: none;
+}
+
+#post-list .post-badge::before {
+  content: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-mode]) #post-list .post-badge,
+  html[data-mode='dark'] #post-list .post-badge {
+    background: linear-gradient(135deg, #7d9171 0%, #617456 50%, #516247 100%);
+    color: #f4fbef;
+    box-shadow: 0 0.2rem 0.5rem rgb(0 0 0 / 20%);
+  }
+}
+
+mark,
+.footnotes ol > li:target,
+sup[id^='fnref:']:target a {
+  color: var(--scribble-highlight-text, currentColor);
+  background:
+    linear-gradient(
+      -1.5deg,
+      transparent 0.2em,
+      color-mix(in srgb, var(--scribble-highlight-bg, #f7d66f) 88%, white) 0.2em,
+      var(--scribble-highlight-bg, #f7d66f) 82%,
+      transparent 82%
+    ),
+    linear-gradient(
+      1.7deg,
+      transparent 14%,
+      color-mix(in srgb, var(--scribble-highlight-bg, #f7d66f) 72%, white) 14%,
+      var(--scribble-highlight-bg, #f7d66f) 92%,
+      transparent 92%
+    );
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+mark {
+  padding: 0.06em 0.3em 0.14em;
+  border-radius: 0.55em 0.18em 0.45em 0.24em;
+  box-shadow: inset 0 -0.08em 0 color-mix(in srgb, var(--scribble-highlight-bg, #f7d66f) 82%, #d49436),
+    0 0.08em 0.2em var(--scribble-highlight-shadow, rgb(202 122 49 / 22%));
+}
+
+.footnotes ol > li:target,
+sup[id^='fnref:']:target a {
+  border-radius: 0.85rem 0.2rem 0.75rem 0.35rem;
+  box-shadow: 0 0.14rem 0.28rem var(--scribble-highlight-shadow, rgb(202 122 49 / 22%));
+}
+
+.footnotes ol > li:target {
+  margin-inline: -0.45rem;
+  padding: 0.2rem 0.45rem 0.3rem;
+}
+
+sup[id^='fnref:'] a,
+.reversefootnote {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.12em;
+}
+
+sup[id^='fnref:']:target a {
+  padding: 0.05em 0.3em 0.14em;
+}
+
+//Added below for gif avatar. Can be removed / adjusted for avatar img acc
+
+#sidebar #avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#sidebar #avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  transform: scale(1.8);
+  transform-origin: center;
+}
+
+#sidebar #avatar:hover img {
+  transform: scale(1.9);
+}
