@@ -2,7 +2,7 @@
 title: Why did Kanelbulle start bloggin ?
 description: Introductory.
 author: kanelbulle
-date: 2025-04-28 11:41:00 +0200
+date: 2025-05-04 11:00:00 +0200
 categories: [Blogging]
 tags: []
 pin: false
