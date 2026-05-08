@@ -5,7 +5,7 @@ author: kanelbulle
 date: 2026-05-04 11:00:00 +0200
 categories: [Blogging]
 tags: []
-pin: false
+pin: true
 math: false
 mermaid: false
 
