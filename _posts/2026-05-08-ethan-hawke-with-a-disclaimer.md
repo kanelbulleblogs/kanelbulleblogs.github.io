@@ -1,6 +1,6 @@
 ---
 title: Ethan Hawke with a side of disclaimer
-description: .
+description: 
 author: kanelbulle
 date: 2026-05-08 14:09:00 +0200
 categories: [Blogging]
