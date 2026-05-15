@@ -25,7 +25,7 @@ Documentaries fascinate me , the good ones I admit are rare to find but if you d
 
 And then I stumbled upon this exceptional documentary about Buddha produced by PBS. It follows the life of prince Siddhartha to Gautama  Buddha (***the enlightened one***). Backed by a striking narration, the most engaging background score and vibrant visuals, this documentary captivates all your senses - a true piece of art in itself I must say.  
 
-While Buddhism endorses a lot of beliefs and concepts , what struck me the most were the obvious (***yet oblivious***) ones - living in the present and not glorifying suffering .. and the fact that they perfectly complement each other if you actually let them sink in- this idea of having an exquisitely perfect future, sometimes at the expense of subjecting yourself to constant worrying and stress, for a future as ambiguous as Kim Kardashian’s pursuit of a career in the law.  
+While Buddhism endorses a lot of beliefs and concepts , what struck me the most were the obvious (***yet oblivious***) ones - living in the present and not glorifying suffering .. and the fact that they perfectly complement each other if you actually let them sink in- this idea of having an exquisitely perfect future, sometimes at the expense of subjecting yourself to constant worrying and stress, for a future as ambiguous as my father's trust in mine.  
 
 While suffering comes in all shapes and flavors - it could be as small as letting this classic French dessert sitting at the back of your fridge for a whole week, waiting for the perfect Friday evening to relish it ..
 
