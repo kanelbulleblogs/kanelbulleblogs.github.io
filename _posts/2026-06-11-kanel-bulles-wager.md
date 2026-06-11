@@ -1,20 +1,24 @@
-
 ---
-title: Kanelbulle's wager
-description:
+title: Kanelbulle's Wager
+description: 
 author: kanelbulle
 date: 2026-06-11 10:00:00 +0200
 categories: [Blogging]
 tags: []
 pin: false
+math: false
+mermaid: false
+
 ---
+
 
 Back in university we dealt with statistics and probability - mainly because we had to work with signals and frequencies. And, I remember working with a certain Pascal’s game theory principle which we used to calculate the odds of an even for our applied mathematics curriculum.  
 
-If I have to be very honest,  
- ***it was traumatising***  
- ***and daunting*** ,  
- ***and I thought that was what to it***  
+If I have to be very honest,  
+***it was traumatising***  
+***and daunting*** ,  
+***and I thought that was what to it***  
+
 
 It wasn’t like we all would turn out to be the next generation of seasoned gamblers, making it another rags to riches story by actually putting that theory into practice, gambling our lives out.  
 
@@ -25,11 +29,17 @@ The wager being as foreign to me as the concept of a bath to an Indian, accordin
 Then came the frantic readings - Reddit posts, research papers and a bunch of short YouTube clips I stumbled across but none really got to me. I will take the liberty and post a word to word for the wager which I found on a reddit thread 
 Pascals wager word to word is -  
  
->Either God exists, or He does not.  
->When we live, we either choose to believe that He exists or not to believe— this is our wager.  
->Regardless of whether God exists or not, it is simply better to believe in God. If we believe in God, we either:  
->receive Heaven (if He exists) orcease to exist after death (if He does not).If we do not believe, we either:  
->suffer Hell (if he exists), orcease to exist (if he does not).  
+>Either God exists, or He does not
+>
+>When we live, we either choose to believe that He exists or not to believe— this is our wager.   
+
+>Regardless of whether God exists or not, it is simply better to believe in God.
+>
+>If we believe in God, we either:  
+>receive Heaven (if He exists) orcease to exist after death (if He does not).
+>
+>If we do not believe, we either:  
+>suffer Hell (if he exists), or cease to exist (if he does not).  
 
 
 Bonkers right ? For a moment I saw stars - wait a minute the whole constellation in daylight , met my ancestors for a brief. This left me traumatized for a whole day.  
@@ -42,8 +52,8 @@ Either that, or I have been watching too many dramas lately and I can’t rest e
 
 Anyway, so I spent more than a day with nothing really coming to fruition - until one afternoon when I happened to be talking to someone struck with acute diarrhoea,  I had my Eureka moment !  
 
-Was it necessary to mention diarrhoea, you ask ? Is this an essential argument here ? Well not, but then I am a humble person and I want to credit it to that one person / event which helped me comprehend this wager, albeit in my own way. 
-   
+Was it necessary to mention diarrhoea, you ask ? Is this an essential argument here ? Well not, but then I am a humble person and I want to credit it to that one person / event which helped me comprehend this wager, albeit in my own way.  
+
 Så,  
 
 let my sister’s diarrhoea take the credit.  
@@ -52,10 +62,10 @@ Okay back to the wager now , so if we remove religion or God from the faith this
   
 
 
->The probability of you being disappointed in believing something,  
->only for you to find out it was a lie all this while,  
->is less than you not believing in it from the start  
->only for you to find out later it was the truth altogether.  
+>The probability of you being disappointed in believing something,  
+>only for you to find out it was a lie all this while,  
+>is less than you not believing in it from the start  
+>only for you to find out later it was the truth altogether. 
 
 
 (Read it again)  
