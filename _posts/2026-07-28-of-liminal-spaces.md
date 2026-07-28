@@ -35,13 +35,14 @@ I believe my earliest introduction to liminality was when I was still a kid, thi
 >That no weapon, of any known elements be the reason for his death    
 
 <br>
-Smart, eh ? Playing well into the ambiguities  <br>
+Smart, eh ? Playing well into the ambiguities
+<br>
 <br>
 
->But then he was outsmarted, out witted by ***Lord Vishnu*** who manifested himself as ***Narsimha*** ( Sanskrit : *nar* - human , *simha* - lion), neither a man nor an animal.<br>
->The demon king was killed at twilight, which was neither the day or the night,<br>
->On the threshold of his house (traditionally houses in India will have a low wall / stone edge separating the indoors of a house from the outdoors , more like a doorstep) , so yeah neither the indoors nor the outdoors<br>
->He was killed while on Narsimha’s lap , a place neither on the earth nor in the sky, with his stomach ripped apart with bare fingernails (no weapons)<br>
+> But then he was outsmarted, out witted by ***Lord Vishnu*** who manifested himself as ***Narsimha*** ( Sanskrit : *nar* - human , *simha* - lion), neither a man nor an animal.  
+> The demon king was killed at twilight, which was neither the day or the night,  
+> On the threshold of his house (traditionally houses in India will have a low wall / stone edge separating the indoors of a house from the outdoors , more like a doorstep) , so yeah neither the indoors nor the outdoors  
+> He was killed while on Narsimha’s lap , a place neither on the earth nor in the sky, with his stomach ripped apart with bare fingernails (no weapons)  
 
 Feels like those loopholes you might leverage in a prenup, right ?<br>
 
