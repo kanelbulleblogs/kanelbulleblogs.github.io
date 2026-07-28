@@ -27,12 +27,13 @@ Picture a being with the body of a lion but head of an elephant and wings of a b
 mostly in the southern parts of India. They can also be spotted in certain temples of South east Asia, especially Thailand and Cambodia in temples with influences of Buddhist - Hindu architecture.
 And that’s precisely ***liminality*** for you (personified?) - the ambiguity of neither this nor that. <br>
 
-I believe my earliest introduction to liminality was when I was still a kid, this one mythological story mumma told me - one of ***Prahlad*** (a devotee of ***Lord Vishnu***). I won’t go into the specifics of it but I want to highlight this boon which his father, the demon king ***Hiranyakashyap*** sought - </br>
+I believe my earliest introduction to liminality was when I was still a kid, this one mythological story mumma told me - one of ***Prahlad*** (a devotee of ***Lord Vishnu***). I won’t go into the specifics of it but I want to highlight this boon which his father, the demon king ***Hiranyakashyap*** sought - <br>
 <br>
 >That no being , a human or an animal could kill him  
 >That there would come no time , in the day or night when he would be killed  
 >That there would be no place, on earth or in the sky where he would be killed  
->That no weapon, of any known elements be the reason for his death  
+>That no weapon, of any known elements be the reason for his death    
+
 <br>
 Smart, eh ? Playing well into the ambiguities  <br>
 <br>
