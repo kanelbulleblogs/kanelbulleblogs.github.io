@@ -1,0 +1,31 @@
+@mixin styles {
+
+    /* Sidebar */
+  --site-title-color: #483422;
+  --sidebar-bg: #c49a6c;
+--site-subtitle-color: #3c555c;
+
+  
+  /* Common color */
+    --link-color: #4E3220;
+    --heading-color: #4E3220;
+
+  /* Posts */
+
+    --card-bg: #fff8f0;
+      --card-hover-bg: #885D41;
+        --card-hover-bg: #e2e2e2;
+  --card-shadow: #c5C4B2 0 2px 6px 0,
+    rgb(211 209 209 / 15%) 0 0 0 1px;
+  --footnote-target-bg: #ffcb89;
+    --scribble-highlight-bg: #f7d66f;
+    --scribble-highlight-shadow: rgb(202 122 49 / 22%);
+    --scribble-highlight-text: #4e3220;
+
+
+  /* Archive */
+    --timeline-color: rgb(202 122 49/ 7.5%);
+    --timeline-node-bg: #4e3220;
+    --timeline-year-dot-color: #4e3220;
+
+}
