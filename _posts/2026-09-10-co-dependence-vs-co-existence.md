@@ -56,5 +56,6 @@ We are, through a differentials of time the version of ourselves today, because 
 A today because a past of ours existed (I am stating the obvious and my English grammar teacher would mock me for the semantic blunders I made in the past).
 Refuting your present would mean denying your past too, and so with it, the previous versions of yourself you took pride in.  
 
-The Pratītyasamutpāda talks about co-dependence but not about co-existence. I am taking the liberty to attribute the Schrödinger’s cat - the logical absurdity that both versions of you would co exist in practicality. 
+The Pratītyasamutpāda talks about co-dependence but not about co-existence. I am taking the liberty to attribute the Schrödinger’s cat - the logical absurdity that both versions of you would co exist in practicality.  
+
 You have a free will to come up with yours.
